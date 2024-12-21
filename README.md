@@ -1,6 +1,3 @@
-Here’s a sample **README** template for your fMRI project. Feel free to adjust the content to match the specifics of your project:
-
----
 
 # fMRI Depression Classification using Artificial Intelligence
 
